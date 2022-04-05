@@ -1,0 +1,22 @@
+// Colors
+
+$text-primary: aliceblue;
+$disabled: #e9ecef;
+$primary: darkcyan;
+
+// Spacing
+
+$padding-sm: 0.5rem;
+
+// Nav variables
+
+$nav-tabs-link-active-bg: $primary;
+$nav-tabs-link-active-color: $text-primary;
+
+// blockquote reset dash
+
+.blockquote-footer {
+  &::before {
+    content: '' !important;
+  }
+}

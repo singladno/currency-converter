@@ -1,0 +1,11 @@
+@import "../../styles/variables";
+@import "../../styles/mixin";
+
+.header {
+  @include center-content;
+  padding: $padding-sm;
+  display: flex;
+  color: $text-primary;
+  flex: 1;
+  background-color: $primary;
+}

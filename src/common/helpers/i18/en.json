@@ -1,0 +1,12 @@
+{
+  "HEADER": {
+    "TITLE": "Currency Converter"
+  },
+  "LOADING_ERROR": "Error occurred while fetching data...",
+  "WEEK": "Week",
+  "MONTH": "Month",
+  "YEAR": "Year",
+  "ERROR": "Fetching data error",
+  "LOCATION.ERROR": "Couldn't detect your local currency. Switching to default",
+  "SAVE_CURRENCY": "Set as default"
+}

@@ -1,0 +1,10 @@
+@import "../../styles/variables";
+
+.main {
+  height: 90%;
+  padding: $padding-sm;
+  width: 80%;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+}
