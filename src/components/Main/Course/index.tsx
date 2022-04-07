@@ -25,7 +25,7 @@ export const Course: React.FC = () => {
         </figcaption>
         <div className="display-6 flex">
           {isError && <div className="">{t("LOADING_ERROR")}</div>}
-          {curCourse && normalize(course)}
+          {course && normalize(course)}
         </div>
         <div></div>
       </div>
